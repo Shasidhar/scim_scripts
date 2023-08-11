@@ -43,8 +43,8 @@ if __name__ == "__main__":
     sp_app_id = "<apn-app-id>" # SPN app id
     tenant_id = "<azure-tenant-id>" #  Tenant id
     client_secret = "<azure-client-secret>" # SP creds
-    sp_object_id = "<sp-opject-id>" # Dev EA resource id
-    app_role_id = "<sp-app-role-id>"  # Dev EA appRole id
+    sp_object_id = "<sp-opject-id>" # SPN resource id
+    app_role_id = "<sp-app-role-id>"  # EA appRole id
     base_url = "https://graph.microsoft.com/v1.0"
 
 
